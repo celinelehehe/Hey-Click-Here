@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <center>
@@ -10,6 +9,7 @@
 <p>At NFQ, we're all about developing cutting-edge apps, CRMs, ERPs, and other cross-platform products. Both for ourselves and for our clients that include HomeToGo, Kayak, Alaiko, Home24, and many others. We specialize in e-commerce, mobility, and transport & logistics, and we're always eager to tackle new challenges. Whatever the area – from Mobile to UX  – we've got a team that knows it inside out.
 <br>
 Join our team of 800+ professionals across Germany, Poland, Lithuania, Vietnam, Thailand, Singapore, and Egypt. Make your own way with us.</p>
+</br>
 <div id="In this role you will">
 <h3><em>In this role you will</em></h3>
 <ul>
@@ -26,7 +26,7 @@ Join our team of 800+ professionals across Germany, Poland, Lithuania, Vietnam, 
 </ul>
 
 <div id="What you will bring">
-<h3><em>What you will bring</h3>
+<h3><em>What you will bring</em></h3>
 <ul>
 <li>From 4 years of overall software development experience, with an emphasis on web applications and back-end technologies, work experience in PHP (strongly preferred with Symfony)</li>
 <li>Knowledge of professional software engineering practices for the full development life cycle (coding standards, code reviews, source control management, build processes, testing, operation, monitoring, etc.)</li>
@@ -40,7 +40,7 @@ Join our team of 800+ professionals across Germany, Poland, Lithuania, Vietnam, 
 </ul>
 
 <div id="Why you'll love working with us">
-<h3><span><em>Why you'll love working with us</em></span></h3>
+<h3><em>Why you'll love working with us</em></h3>
 <ul>
 <li>15 days annual leaves</li>
 <li>Life insurance worth 1 billion VND</li>
